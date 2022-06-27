@@ -1,4 +1,8 @@
-# Hey there! I'm Dina AL-Dous 👋
+<div id="header" align="center">
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
+ <h1> Hey there! I'm Dina AL-Dous 👋</h1>
+</div>
+
 
 <!--
 **Deenamohdous/DeenaMohDous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
