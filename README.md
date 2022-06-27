@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning Data Structure
 - 💬 Ask me about ...
 <hr>
- <h3>Contact me with : </h3>
+ <h3>:mailbox_with_no_mail:Contact me with : </h3>
 
 <a href="mailto:dina.mohdous@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
