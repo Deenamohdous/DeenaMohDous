@@ -1,5 +1,7 @@
-<div id="header" align="center">
-<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
+<!-- <div id="header" align="center">
+
+   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
+<div>
  <h1> Hey there! I'm Dina AL-Dous 👋</h1>
 </div>
 
@@ -9,9 +11,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m Full-Stack Developer
-- 🌱 I’m currently learning Data Structure
-- 💬 Ask me about ...
+<h4>- 🔭 I’m Full-Stack Developer, yearning to learn new things, and strive for higher experience
+ and achievements in life with my ability to build strong relationships.</h4>
 <hr>
  <h3>:mailbox_with_no_mail:Contact me with : </h3>
 
@@ -29,7 +30,6 @@ Here are some ideas to get you started:-->
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 </div>
