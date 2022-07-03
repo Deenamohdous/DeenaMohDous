@@ -11,7 +11,7 @@
 
 Here are some ideas to get you started:-->
 
-<h4>- 🔭 I’m Full-Stack Developer, yearning to learn new things, and strive for higher experience
+<h4>🔭 I’m Full-Stack Developer, yearning to learn new things, and strive for higher experience
  and achievements in life with my ability to build strong relationships.</h4>
 <hr>
  <h3>:mailbox_with_no_mail:Contact me with : </h3>
